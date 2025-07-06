@@ -76,8 +76,6 @@ Preview
 
 https://www.linkedin.com/posts/mathu-c_project-completed-multi-user-to-do-list-activity-7347638503641440256-CdAI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFI50cQBHaGcvULQMVHjoQp1ka49AmuqPDA
 ________________________________________
-Live Demo
-•	Live Link: [Insert deployed URL]
 
 This project is a part of a hackathon run by
 https://www.katomaran.com
